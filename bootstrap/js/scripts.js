@@ -1,3 +1,5 @@
 /* scripts */
-joiqf wefjdsa; ewgasdfg;afsdg;asdg; as;dg;sqdg
-;asd;g sadf;gadfsg ;adfg;adf;gadsf;g
+  
+  var a = 1
+
+  var b = 2
