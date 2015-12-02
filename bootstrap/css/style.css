@@ -61,7 +61,7 @@ body {
 .menu a:hover {
     background-color: #ffa500;
     color: #fff;
-    transition: 0.7s;
+    transition: 1s;
 }
 
 .img-modal:hover {
