@@ -30,6 +30,12 @@ body {
     margin-top: 35px;
 }
 
+.main-image {
+
+    width: 100%;
+    
+}
+
 
 
 
@@ -93,6 +99,8 @@ body {
     width: 100%;
     border: 1px solid #333;
 }
+
+
 
 /*** Buttons ***/
 
