@@ -8,20 +8,20 @@ module.exports = function(grunt) {
           sizes: [{
             name: 'small',
             width: '30%',
-            suffix: '_small',
+            suffix: '',
             quality: 20
           },{
             name: 'large',
             width: '50%',
-            suffix: '_large',
+            suffix: '',
             quality: 40
           }]
         },
         files: [{
           expand: true,
           src: ['*.{gif,jpg,png}'],
-          cwd: 'bootstrap/images/',
-          dest: 'bootstrap/srcimages/'
+          cwd: 'images/',
+          dest: 'images/'
         }]
       }
     },
